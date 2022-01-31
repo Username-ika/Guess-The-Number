@@ -1,6 +1,2 @@
 # Guess-The-Number
-![](images/GuessTheNumber1.png)
-
-![](images/GuessTheNumber2.png)
-
-![](images/GuessTheNumber3.png)
+<img src="https://github.com/Username-ika/Guess-The-Number/blob/master/Gif/guess%20a%20number.gif" width="300"  />
