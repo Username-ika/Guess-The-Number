@@ -173,11 +173,11 @@ const styles = StyleSheet.create({
     maxWidth: "90%",
   },
   listItem: {
-    borderColor: "#ccc",
+    borderColor: "#ccc",    
     borderWidth: 1,
     padding: 15,
     marginVertical: 10,
-    backgroundColor: "white",
+    backgroundColor: "#A6FFFF",
     flexDirection: "row",
     justifyContent: "space-between",
     width: "100%",
